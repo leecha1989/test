@@ -1,4 +1,4 @@
-# etiqa
+# Etiqa
  
 Complete Developer Network (CDN) - Freelancer Directory
 
