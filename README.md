@@ -2,7 +2,7 @@
  
 Complete Developer Network (CDN) - Freelancer Directory
 
-CDN is a fictional company building a comprehensive directory of freelancers to connect people for job opportunities. This project utilizes ASP.NET Core Web API and Entity Framework Core to manage user data. The API supports CRUD operations and it is deployed to github.
+CDN is a fictional company building a comprehensive directory of freelancers to connect people for job opportunities. This project utilizes ASP.NET Core Web API to manage user data, it supports CRUD operations and it is deployed to github.
 
 ## Features
 
